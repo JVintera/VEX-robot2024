@@ -1,2 +1,2 @@
 # VEX-robot2024
-Úkoly na kroužek robotiky na ZŠ Novém Hrádku.
+Úkoly se stavebnicí VEX IQ pro kroužek robotiky na ZŠ.
